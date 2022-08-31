@@ -6,3 +6,4 @@ adding new file
 let me add again
 
 adding again to the file
+to check my changes
